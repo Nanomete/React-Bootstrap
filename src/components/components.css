@@ -1,0 +1,16 @@
+.Menu {
+    li {
+        list-style: none;
+        padding-left: 15px;
+        a {
+            text-align: center;
+            text-decoration: none;
+        }
+    }
+}
+
+.carousel-item {
+    img {
+        opacity: 60%;
+    }
+}
